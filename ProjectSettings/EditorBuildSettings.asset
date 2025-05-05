@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Zone3_Tiger.unity
     guid: d486e12f73b75c94891ef4b5359ddbc1
+  - enabled: 1
+    path: Assets/Scenes/Zone5_Elk.unity
+    guid: b9a506d22561ae14f91cf7eaa24bbcf9
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
