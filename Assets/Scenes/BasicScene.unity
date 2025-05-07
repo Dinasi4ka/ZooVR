@@ -5895,14 +5895,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af5d779e24782bd418b8f2119e1f3df6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNames:
-  - Zone1_Penguin
-  - Zone3_Tiger
-  - Zone5_Elk
-  positions:
-  - {x: -0.5, y: 0.5, z: 0.5}
-  - {x: 0.5, y: 0.5, z: 0.5}
-  - {x: -0.5, y: 0.5, z: -0.5}
 --- !u!4 &1247956092
 Transform:
   m_ObjectHideFlags: 0
